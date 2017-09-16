@@ -1,4 +1,4 @@
-# Practica 1
+# Practice 1
 
-Autor: Gabriel Muñumel
+Author: Gabriel Muñumel
 
